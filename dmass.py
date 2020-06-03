@@ -44,4 +44,4 @@ async def send(ctx, *, content: str):
                 await client.say("Laiškas negali būti išsiųstas: {} :x: ".format(member))
 
 
-client.run("")             
+client.run("NzE2ODgzNDg5NDIwNzM4NTgw.XteQmQ.eLejmayvN1dWFQJif2luAlwfoC8")             
